@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
