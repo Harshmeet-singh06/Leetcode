@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Math
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
