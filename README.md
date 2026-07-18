@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
