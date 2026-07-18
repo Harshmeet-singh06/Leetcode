@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
