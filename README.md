@@ -20,20 +20,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -51,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
