@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
