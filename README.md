@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0238-product-of-array-except-self](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Prefix Sum
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
