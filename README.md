@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0402-remove-k-digits) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0402-remove-k-digits) |
