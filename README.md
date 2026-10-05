@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0455-assign-cookies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
