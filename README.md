@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0856-score-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
