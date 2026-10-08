@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
