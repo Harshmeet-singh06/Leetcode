@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshmeet-singh06/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
