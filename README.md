@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0735-asteroid-collision) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
 | [0778-swim-in-rising-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
