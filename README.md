@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Harshmeet-singh06/Leetcode/tree/master/0647-palindromic-substrings) |
